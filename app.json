@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "VISPER-MD&5c27ddf0-0d19-43f2-941b-27d862823397",
+      "description": "VISPER-MD&524e51c2-d865-4b10-953c-8adedb887246",
       "required": true
     }
 },
